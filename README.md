@@ -1,1 +1,1 @@
-This is the org file samole pro returned from hub
+This is the org file sample pro returned from hub
